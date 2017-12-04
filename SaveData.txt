@@ -1,0 +1,7 @@
+1:Dennis;Password;Dennis;12;0;12;04-12-2017;12.000000;0;3;
+1:Dennis;Password;Dennis;12;0;12;04-12-2017;12.000000;0;2;
+2:UserChef;Password;NameChef;12;1;12;04-12-2017;12.000000;Spaghetti;
+2:UserChef;Password;NameChef;12;1;12;04-12-2017;12.000000;Spaghetti;
+3:UserLav;Password;12;12;1;12;04-12-2017;12.000000;100;
+3:UserLav;Password;12;12;1;12;04-12-2017;12.000000;100;
+4:UserMesero;Password;NameMesero;12;1;12;04-12-2017;12.000000;
